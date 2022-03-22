@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\txtpro\txtpro\bin\Debug\net5.0\txtpro.exe
+C:\Users\PC\source\repos\txtpro\txtpro\bin\Debug\net5.0\txtpro.deps.json
+C:\Users\PC\source\repos\txtpro\txtpro\bin\Debug\net5.0\txtpro.runtimeconfig.json
+C:\Users\PC\source\repos\txtpro\txtpro\bin\Debug\net5.0\txtpro.runtimeconfig.dev.json
+C:\Users\PC\source\repos\txtpro\txtpro\bin\Debug\net5.0\txtpro.dll
+C:\Users\PC\source\repos\txtpro\txtpro\bin\Debug\net5.0\ref\txtpro.dll
+C:\Users\PC\source\repos\txtpro\txtpro\bin\Debug\net5.0\txtpro.pdb
+C:\Users\PC\source\repos\txtpro\txtpro\obj\Debug\net5.0\txtpro.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\txtpro\txtpro\obj\Debug\net5.0\txtpro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\txtpro\txtpro\obj\Debug\net5.0\txtpro.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\txtpro\txtpro\obj\Debug\net5.0\txtpro.AssemblyInfo.cs
+C:\Users\PC\source\repos\txtpro\txtpro\obj\Debug\net5.0\txtpro.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\txtpro\txtpro\obj\Debug\net5.0\txtpro.dll
+C:\Users\PC\source\repos\txtpro\txtpro\obj\Debug\net5.0\ref\txtpro.dll
+C:\Users\PC\source\repos\txtpro\txtpro\obj\Debug\net5.0\txtpro.pdb
+C:\Users\PC\source\repos\txtpro\txtpro\obj\Debug\net5.0\txtpro.genruntimeconfig.cache
