@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Need for Speed III", "Need for Speed III\Need for Speed III.csproj", "{5445E688-F682-42B2-B291-15DDB9BDEC61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5445E688-F682-42B2-B291-15DDB9BDEC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5445E688-F682-42B2-B291-15DDB9BDEC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5445E688-F682-42B2-B291-15DDB9BDEC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5445E688-F682-42B2-B291-15DDB9BDEC61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95EBB227-3886-4CD9-89F5-BFB90C290463}
+	EndGlobalSection
+EndGlobal
