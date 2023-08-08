@@ -1,2 +1,2 @@
 # C# Fundamentals
- softuni fundamentals course
+Softuni C# Fundamentals Course
